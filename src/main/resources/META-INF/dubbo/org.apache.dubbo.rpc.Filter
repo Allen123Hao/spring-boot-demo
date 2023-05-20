@@ -1,0 +1,2 @@
+customerFilter=com.example.springboot.filter.CustomerContextFilter
+exceptionFilter=com.example.springboot.filter.CustomerExceptionFilter
